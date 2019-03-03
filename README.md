@@ -1,5 +1,5 @@
 # Andoid_Xfermode
-Andoid_Xfermode  混合模式 8
+Andoid_Xfermode  自定义view混合模式 8
 
 混合模式之PorterDuffXfermode有18种。
 case  0: return Mode.CLEAR;
